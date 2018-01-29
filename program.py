@@ -1,3 +1,10 @@
+# Python 3.6
+#
+# filename program.py
+# random number guessing program
+# written for PyCharm course
+#
+
 from random import randint
 
 number = number = randint(0, 100)
